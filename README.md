@@ -57,7 +57,7 @@ clicker.on('click', yourCallback);
 
 Top banner formatting
 ---------------------------
-Top banner elements should be included in the ```div#top_banner```.
+**Top banner elements should be included in the ```div#top_banner```.**
 
 Top banner elements include:
 - simple banner
