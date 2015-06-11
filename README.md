@@ -22,7 +22,9 @@ Additionnal css style **must not change** these following rules on any element o
 
 Skin formatting
 ----------------------
-Apply background only on ```div#wrapper```. This will allow the background to be properly moved with the navigation menu.
+**Apply background only on ```div#wrapper```.** 
+
+This will allow the background to be properly moved with the navigation menu.
 Custom scripts should follow these specifications in order to maintain the site coherence. For new formats, please check feasability with the technical team.
 
 ```javascript
