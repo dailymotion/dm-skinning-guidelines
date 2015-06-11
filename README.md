@@ -75,5 +75,5 @@ Campaign testing
 - [ ] login and check user menu
 - [ ] check header display
 - [ ] check footer display
-- [ ] check if the site fit in the window (no horizontal scroll)
+- [ ] check if the site fits in the window (no horizontal scroll)
 - [ ] check the campaign on different viewports
