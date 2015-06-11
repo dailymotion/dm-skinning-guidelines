@@ -31,9 +31,10 @@ $('#wrapper').css({
 });
 ```
 Create div to handle click redirection:
-The div should be 100% width and 100% height
-Tt should be the first child of the ```div#wrapper```
-You should add a callback on the click event to handle the redirection
+
+- The ```div`` should be 100% width and 100% height
+- It should be the first child of the ```div#wrapper```
+- You should add a callback on the click event to handle the redirection
 
 ```javascript
 var clicker = $('<div />);
