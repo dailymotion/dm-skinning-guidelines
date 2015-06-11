@@ -10,15 +10,15 @@ Element insertion
 
 HTML Formatting
 ----------------------------
-- Code should be submitted without html, title, head or body tags
+- Code should be submitted without ```html```, ```title```, ```head``` or ```body``` tags
 - All html attributes must be properly double-quoted
 - All tags should be correctly nested and closed (except for self-closing tags)
 
 CSS Formatting
 ------------------
 Additionnal css style **must not change** these following rules on any element on the page:
-- z-index
-- position
+- ```z-index```
+- ```position```
 
 Skin formatting
 ----------------------
@@ -57,6 +57,7 @@ clicker.on('click', yourCallback);
 Top banner formatting
 ---------------------------
 Top banner elements should be included in the ```div#top_banner```.
+
 Top banner elements include:
 - simple banner
 - masthead
