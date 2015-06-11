@@ -66,8 +66,9 @@ Top banner elements include:
 
 Campaign testing
 ------------------------
+**Each item of the list should be tested before ANY CAMPAIGN RELEASE**
+
 - [ ] check navigation panel
-- [ ] each item of the list should be tested before **ANY CAMPAIGN RELEASE**
 - [ ] login and check user menu
 - [ ] check header display
 - [ ] check footer display
