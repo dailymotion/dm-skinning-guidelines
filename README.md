@@ -1,4 +1,4 @@
-Dailymotion Skinning guidelines - Custom campaign specifications
+Dailymotion skinning guidelines - Custom campaign specifications
 ==============================
 ![Dailymotion logo](http://www.underconsideration.com/brandnew/archives/dailymotion_logo_detail.png)
 
