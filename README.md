@@ -1,6 +1,6 @@
 Dailymotion Skinning guidelines - Custom campaign specifications
 ==============================
-![Dailymotion logo](http://static1.dmcdn.net/images/dailymotion-logo-ogtag.png.v2779e025da411e7f9)
+![Dailymotion logo](http://www.underconsideration.com/brandnew/archives/dailymotion_logo_detail.png)
 
 Element insertion
 --------------------------
