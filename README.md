@@ -35,7 +35,7 @@ Tt should be the first child of the ```div#wrapper```
 You should add a callback on the click event to handle the redirection
 
 ```javascript
-var clicker = S('<div />);
+var clicker = $('<div />);
 // configure and position the div
 clicker.css(
 {
