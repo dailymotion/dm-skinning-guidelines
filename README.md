@@ -6,7 +6,7 @@ Element insertion
 --------------------------
 - Element insertion above the header is forbidden
 - New elements ids and classes should be prefixed 'dm-ad' to avoid conflicts.
-- For top banner and skinning, please refer to [the specific section](#banner).
+- For top banner and skinning, please refer to [the specific section](#Top-banner-formatting).
 
 HTML Formatting
 ----------------------------
@@ -54,7 +54,7 @@ $('#wrapper').prepend(clicker);
 clicker.on('click', yourCallback);
 ```
 
-[Top banner formatting](#banner)
+Top banner formatting
 ---------------------------
 Top banner elements should be included in the ```div#top_banner```.
 Top banner elements include:
