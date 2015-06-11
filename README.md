@@ -4,25 +4,26 @@ Dailymotion Skinning guidelines - Custom campaign specifications
 
 Element insertion
 --------------------------
-Element insertion above the header is forbidden
-New elements ids and classes should be prefixed 'dm-ad' to avoid conflicts.
-For top banner and skinning, please refer to the specific section.
+- Element insertion above the header is forbidden
+- New elements ids and classes should be prefixed 'dm-ad' to avoid conflicts.
+- For top banner and skinning, please refer to the specific section.
+
 HTML Formatting
-Code should be submitted without html, title, head or body tags
-All html attributes must be properly double-quoted
-All tags should be correctly nested and closed (except for self-closing tags)
+----------------------------
+- Code should be submitted without html, title, head or body tags
+- All html attributes must be properly double-quoted
+- All tags should be correctly nested and closed (except for self-closing tags)
 
 CSS Formatting
 ------------------
-Additionnal css style must not change these following rules on any element on the page:
-z-index
-position
+Additionnal css style **must not change** these following rules on any element on the page:
+- z-index
+- position
 
 Skin formatting
 ----------------------
 Apply background only on ```div#wrapper```. This will allow the background to be properly moved with the navigation menu.
-Custom scripts should follow these specifications in order to maintain the site coherence. For new formats, please check feasability with
-the technical team.
+Custom scripts should follow these specifications in order to maintain the site coherence. For new formats, please check feasability with the technical team.
 
 ```javascript
 $('#wrapper').css({
@@ -55,17 +56,17 @@ clicker.on('click', yourCallback);
 
 Top banner formatting
 ---------------------------
-Top banner elements should be included in the div#top_banner.
+Top banner elements should be included in the ```div#top_banner```.
 Top banner elements include:
-simple banner
-masthead
-transparent flash
-pushdown
+- simple banner
+- masthead
+- transparent flash
+- pushdown
 
 Campaign testing
 ------------------------
 - [ ] check navigation panel
-- [ ] Each item of the list should be tested before ANY CAMPAIGN RELEASE 
+- [ ] each item of the list should be tested before **ANY CAMPAIGN RELEASE**
 - [ ] login and check user menu
 - [ ] check header display
 - [ ] check footer display
