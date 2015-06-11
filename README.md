@@ -30,9 +30,9 @@ $('#wrapper').css({
  background: 'url(http://i.imgur.com/KDSGJ1j.png)'
 });
 ```
-Create div to handle click redirection:
+Create ```div``` to handle click redirection:
 
-- The ```div`` should be 100% width and 100% height
+- The ```div``` should be 100% width and 100% height
 - It should be the first child of the ```div#wrapper```
 - You should add a callback on the click event to handle the redirection
 
