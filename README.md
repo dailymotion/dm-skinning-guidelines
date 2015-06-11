@@ -1,12 +1,6 @@
 Dailymotion Skinning guidelines - Custom campaign specifications
 ==============================
-![fsdafsa](http://static1.dmcdn.net/images/dailymotion-logo-ogtag.png.v2779e025da411e7f9)
-
-Element insertion
-HTML Formatting
-CSS Formatting
-Skin formatting
-Top banner formatting
+![Dailymotion logo](http://static1.dmcdn.net/images/dailymotion-logo-ogtag.png.v2779e025da411e7f9)
 
 Element insertion
 --------------------------
